@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,700;1,500&display=swap');
+
+// @import '_global.sass';
+@import './admin/variable.scss';
+@import './admin/_global.sass';
+
+
+//Pages
+@import './admin/partials/_nav.sass';
+// @import './pages/auth.sass';
+
+
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
